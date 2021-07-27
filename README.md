@@ -4,7 +4,7 @@ I am a biomedical engineering student at IIT in Chicago. The languages I have us
 
 # Skills 
 
-## Programming Languages
+### Programming Languages
 
 - Proficient: Matlab, C++
 - Familiar: Python, Java
